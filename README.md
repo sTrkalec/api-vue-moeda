@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/57048555/120878535-852b3d80-c593-11eb-9d26-73760be1bc47.jpgf" alt="Print" />
+ <img src="https://user-images.githubusercontent.com/57048555/120878608-04207600-c594-11eb-80f2-1810a7879fe2.jpg" alt="Print" />
 </p>
 
 
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - VUE.JS
 - CSS
 - NODE.JS
-- AXiOS
+- AXIOS
 
 ## 🚀 Projeto
 
